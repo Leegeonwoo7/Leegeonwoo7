@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=?style=for-the-badge&logo=appveyor&logo=github&logoColor=5C5543"/></a>
 <a href="https://www.instagram.com/2rjsdn/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=#4405F"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=E8E8E8"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leegeonwoo7&show_icons=true&theme=radical)
