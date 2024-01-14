@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=?style=for-the-badge&logo=appveyor&logo=github&logoColor=5C5543"/></a>
+<a href="https://www.instagram.com/2rjsdn/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=#4405F"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leegeonwoo7&show_icons=true&theme=radical)
