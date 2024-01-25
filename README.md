@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=E8E8E8"/></a>
-<!--<a href="https://www.instagram.com/2rjsdn/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=4405F"/></a>
--->
+<a href="https://www.instagram.com/2rjsdn/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=4405F"/></a>
+
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=E8E8E8"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leegeonwoo7&show_icons=true&theme=radical)
+-->
